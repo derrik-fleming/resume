@@ -45,7 +45,6 @@ jobs:
           pandoc resume.md \
             -o resume.html \
             -s --css=style.css \
-            --metadata title="Derrik Fleming - Resume"
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
