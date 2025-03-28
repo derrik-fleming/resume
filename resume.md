@@ -36,13 +36,14 @@ GraphQL, Jira
 
 - Architected full-stack applications using AWS CDK (TypeScript), enhancing
 scalability and deployment efficiency.
-- Developed and maintained web apps with Vue, React, SvelteKit, and ExpressJS,
-leveraging TypeScript for robust codebases.
+- Developed web apps with Vue, React, SvelteKit, and ExpressJS.
 - Built cross-platform mobile apps using Flutter and React Native, delivering
 seamless user experiences.
-- Collaborated in Agile teams, leading sprint reviews and demos to align with
-stakeholder goals.
-- Contributed to Cloud and Web/Mobile/UI Guilds, shaping best practices and
+- Flutter plugin development allowing Flutter application developers to interact with
+native APIs using Kotlin, Swift, and Dart.
+- Collaborated in Agile teams, participating in sprint reviews and demos to align
+with stakeholders.
+- Contributed to Cloud and Web/Mobile/UI Guilds, shaping company best practices and
 technical standards.
 - Earned AWS Cloud Practitioner certification, strengthening cloud expertise.
 
