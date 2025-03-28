@@ -1,4 +1,4 @@
-# Derrik fleming
+# Derrik Fleming
 
 ## Senior Software Engineer
 
