@@ -111,3 +111,10 @@ empowering production staff.
 **BSc in Computer Science**
 *Grand Valley State University, Allendale, MI*
 *Sept 2014 - Dec 2018*
+
+---
+
+## Media
+
+- [Blog: Flutter Plugin Development: A Comprehensive Guide: Part 1](https://spindance.com/2024/08/06/flutter-plugin-development-a-comprehensive-guide-part-1/)
+- [Blog: Flutter Plugin Development: A Comprehensive Guide: Part 2](https://spindance.com/2024/11/12/flutter-plugin-development-a-comprehensive-guide-part-2/)
