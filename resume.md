@@ -31,33 +31,27 @@ GraphQL, Jira
 
 ### Mutually Human (formerly SpinDance) – Remote
 
-**Senior Software Engineer, Cloud | Web | Mobile**
+**Senior Software Engineer, Cloud | Mobile | Web**
 *Jan 2022 - Present*
+
+**Software Engineer II, Cloud | Mobile | Web**
+*Jul 2021 - Dec 2021*
 
 - Architected full-stack applications using AWS CDK (TypeScript), enhancing
 scalability and deployment efficiency.
 - Developed web apps with Vue, React, SvelteKit, and ExpressJS.
 - Built cross-platform mobile apps using Flutter and React Native, delivering
 seamless user experiences.
-- Flutter plugin development allowing Flutter application developers to interact with
-native APIs using Kotlin, Swift, and Dart.
-- Collaborated in Agile teams, participating in sprint reviews and demos to align
-with stakeholders.
-- Contributed to Cloud and Web/Mobile/UI Guilds, shaping company best practices and
-technical standards.
+- Flutter plugin development allowing Flutter application developers to interact
+with native iOS and Android APIs using Kotlin, Swift, and Dart.
+- Collaborated in Agile teams, participating in ceremonial sprint meetings e.g.
+estimation, planning, reviews and demos to align with stakeholders.
+- Contributed to Cloud and Web/Mobile/UI Guilds, shaping company best practices
+and technical standards.
+- Facilitated sales processes by providing technical requirements and estimates.
+- Participated in customer consultations and reviews in architecture, design, 
+and code quality.
 - Earned AWS Cloud Practitioner certification, strengthening cloud expertise.
-
-### SpinDance – Remote
-
-**Software Engineer II, Cloud | Web | Mobile**
-*Jul 2021 - Dec 2021*
-
-- Delivered full-stack solutions with AWS, Vue, React, and React Native,
-meeting tight project deadlines.
-- Optimized CI/CD pipelines, reducing deployment times and improving team
-workflows.
-- Worked in Agile sprints with cross-functional teams to exceed stakeholder
-expectations.
 
 ### Osborn Barr Paramore – Remote
 
@@ -66,8 +60,8 @@ expectations.
 
 - Built web applications and CMS integrations using Vue, Laravel, TypiCMS,
 GraphQL, and Drupal.
-- Transitioned projects to Dockerized environments, cutting onboarding time
-substantially and boosting team productivity.
+- Transitioned projects to Dockerized development environments, cutting 
+project onboarding time substantially and boosting team productivity.
 - Developed React Native mobile apps with SoundCloud and Firebase integrations,
 enhancing functionality.
 - Supported remote Agile processes, including daily standups and sprint
