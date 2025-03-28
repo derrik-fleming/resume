@@ -4,7 +4,7 @@
 
 ![Profile](https://img.shields.io/badge/Sr_Software_Engineer-🚀-blue)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-March_27,_2025-green)
-![Pipeline Status](https://github.com/derrik-fleming/resume/actions/workflows/ci.yml/badge.svg)
+[![Pipeline Status](https://github.com/derrik-fleming/resume/actions/workflows/ci.yaml/badge.svg)](https://github.com/derrik-fleming/resume/actions)
 
 This repository houses my professional resume, detailing my journey as a Software Engineer with a focus on full-stack development, cloud solutions, and mobile apps.
 
