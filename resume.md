@@ -26,33 +26,27 @@ Seeking to leverage expertise in cloud infrastructure and cross-platform mobile 
 
 ### Mutually Human (formerly SpinDance) – Remote
 
-**Senior Software Engineer, Cloud | Mobile | Backend**
+**Senior Software Engineer | Consultant, Cloud | Mobile | Backend**
 _Jan 2022 - Present_
 
+**Software Engineer II | Consultant, Cloud | Mobile | Backend**
+_Jul 2021 - Dec 2021_
+
+- Served as a Software Engineer and Consultant, specializing in cloud infrastructure, mobile development, and backend systems on a variety of connected product systems (IoT)
 - Architected and deployed scalable cloud infrastructure using AWS CDK with TypeScript, using Infrastructure as Code best practices
-- Built high-performance RESTful APIs and GraphQL services
+- Built and designed RESTful and GraphQL API services
 - Developed cross-platform mobile applications using Flutter and React Native, achieving optimal code reuse across iOS and Android platforms
 - Engineered custom Flutter plugins integrating with native platform APIs for iOS and Android (e.g. CarPlay, Android Auto)
 - Implemented CI/CD pipelines using GitHub Actions and AWS CodePipeline, automating testing, building, and deployment processes
-- Designed and implemented event driven architecture patterns
 - Led Agile development practices including sprint planning, estimation, and retrospectives to ensure consistent delivery
 - Contributed to technical standards and best practices through active participation in Cloud and Mobile Engineering Guilds
-- Mentored junior developers through code reviews, pair programming, and technical architecture discussions
-- Provided technical consultation for client architecture decisions, scalability planning, and performance optimization
+- Mentored junior developers through code reviews, some pair programming, and technical discussions
+- Provided technical consultation for client architecture decisions, scalability planning, and optimization
 - Contributed to development and design of IoT framework
-
-**Software Engineer II, Cloud | Mobile | Backend**
-_Jul 2021 - Dec 2021_
-
-- Implemented cloud-native applications using AWS services including Lambda, DynamoDB, and API Gateway
-- Developed mobile applications with Flutter and React Native, focusing on performance optimization and user experience
-- Built RESTful APIs and backend services using Node.js and Python
-- Collaborated within cross-functional Agile teams to deliver features on schedule
-- Achieved AWS Cloud Practitioner certification, strengthening cloud infrastructure expertise
 
 ### Osborn Barr Paramore – Remote
 
-**Software Engineer, Full-Stack | Mobile**
+**Software Engineer, Web | Mobile**
 _Jul 2020 - Apr 2021_
 
 - Developed scalable web applications using Vue.js, Laravel, and GraphQL with integrated CMS platforms (CraftCMS, Drupal)
@@ -69,7 +63,7 @@ _Jul 2020 - Apr 2021_
 - Led ERP system modernization projects for manufacturing clients, improving operational efficiency through system integration
 - Developed real-time monitoring systems using WebSocket connections and event-driven architectures
 - Created custom API integrations between legacy systems and cloud-based solutions, ensuring seamless data migration
-- Implemented database optimization strategies that improved query performance by 40%
+- Implemented database optimization strategies that improved query performance
 
 ### Westshore Design LLC – Holland, MI
 
@@ -94,8 +88,9 @@ _May 2018 - Dec 2018_
 
 ## Education
 
+### Grand Valley State University - Allendale, MI
+
 **Bachelor of Science in Computer Science**
-_Grand Valley State University, Allendale, MI_
 _Sept 2014 - Dec 2018_
 
 ---
